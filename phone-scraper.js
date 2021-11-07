@@ -52,5 +52,5 @@ function modify (el) {
 sixFigs = up9.map(el => modify(el))
 
 // run 
-scrapeProduct('https://www.globaltel.rs/smisli-broj', sixFigs)
+scrapeProduct('<target-url>/smisli-broj', sixFigs)
 

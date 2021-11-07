@@ -1,2 +1,2 @@
 # my-puppeteer-project
-A way to headlessly browse input forms w reload.
+A way to headless browse input forms w reload.
